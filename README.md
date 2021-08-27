@@ -1,2 +1,2 @@
 # Unity-Platformer-Game
-Unity Platformer Game. Windows.
+Bardent Tutorial Unity 2D Platformer Games. Windows.
